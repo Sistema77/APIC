@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIC", "APIC.csproj", "{DC6F705C-EAE8-486C-8D4D-916CED954349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaAPI", "..\BibliotecaAPI\BibliotecaAPI.csproj", "{EE00487F-4BD7-49A5-8A17-94E5802AEB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6F705C-EAE8-486C-8D4D-916CED954349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6F705C-EAE8-486C-8D4D-916CED954349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6F705C-EAE8-486C-8D4D-916CED954349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6F705C-EAE8-486C-8D4D-916CED954349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE00487F-4BD7-49A5-8A17-94E5802AEB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE00487F-4BD7-49A5-8A17-94E5802AEB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE00487F-4BD7-49A5-8A17-94E5802AEB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE00487F-4BD7-49A5-8A17-94E5802AEB02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7160622-CE47-4787-A957-C65F821E6ABA}
+	EndGlobalSection
+EndGlobal
